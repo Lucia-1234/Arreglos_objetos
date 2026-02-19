@@ -3,7 +3,7 @@ let celular = {
     marca: "Xiaomi",
     modelo: 5,
     año: 2012,
-    estado: "deplorable"
+    estado: "vendido"
 };
 
 //se muestra cadaa propiedad en consola de manera individual
