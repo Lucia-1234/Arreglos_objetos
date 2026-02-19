@@ -9,7 +9,7 @@ console.log(frutas);
 //se elimina el ultimo elemento 
 frutas.pop();
 
-//se recorre usando for 
+//se recorre usando for of
 for (let fruta of frutas){
     console.log(fruta);
 }
