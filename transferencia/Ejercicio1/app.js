@@ -10,5 +10,5 @@ asistencia.shift();
 //cantidad total de nombres registrados
 console.log(asistencia.length);
 
-//contenido de la lista
+//contenido de la lista asistencia
 console.log(asistencia);
