@@ -9,7 +9,7 @@ for (let i = 0; i < notas.length; i++) {
   suma += notas[i]; // acumular cada nota
 }
 
-// Calcular el promedio
+// Calcular el promedio arreglo
 let promedio = suma / notas.length;
 
 // Mostrar el resultado
