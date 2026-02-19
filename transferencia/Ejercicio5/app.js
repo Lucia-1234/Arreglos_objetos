@@ -1,7 +1,7 @@
 //lista de tareas vacia
 let tareas = [];
 
-//se agregan las tareas
+//se agregan las tareas a la lista
 tareas.push("Barrer", "limpiar mesa", "lavar ropa");
 
 //se elimina la ultima tarea
